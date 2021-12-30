@@ -1,3 +1,4 @@
 # empty
 an empty repository
-.
+
+..
